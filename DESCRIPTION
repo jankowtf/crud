@@ -14,3 +14,8 @@ RoxygenNote: 7.1.0
 Imports: 
     lifecycle
 RdMacros: lifecycle
+Suggests: 
+    covr,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

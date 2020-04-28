@@ -3,3 +3,13 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^README\.Rmd$
+^\.github$
+^codecov\.yml$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.*\.Rproj$
+^LICENSE\.md$
+^data$
+^scripts$
+^build\.R$
